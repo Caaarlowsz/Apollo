@@ -1,0 +1,29 @@
+name: Apollo
+main: me.staud.apollo.Apollo
+version: 1.0
+author: Staud, Axris
+description: KitPvP Plugin with built in Essentials
+softdepend:
+  - PermissionsEx
+
+commands:
+  kits:
+  changelog:
+  reset:
+  stats:
+  heal:
+  report:
+  gmc:
+  gms:
+  discord:
+  store:
+  teleport:
+    aliases:
+      - tp
+  teleporthere:
+    aliases:
+      - tphere
+  help:
+  alert:
+    aliases:
+      - broadcast

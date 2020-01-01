@@ -1,0 +1,12 @@
+permissions:
+  apollo.changelog:
+  apollo.reset:
+  apollo.stats:
+  apollo.heal:
+  apollo.report:
+  apollo.gmc:
+  apollo.gms:
+  apollo.teleport:
+  apollo.teleporthere:
+  apollo.help:
+  apollo.alert:
