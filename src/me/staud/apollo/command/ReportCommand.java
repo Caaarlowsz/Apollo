@@ -8,6 +8,8 @@ import org.bukkit.command.CommandExecutor;
 import org.bukkit.command.CommandSender;
 import org.bukkit.entity.Player;
 
+// This doesnt work
+
 public class ReportCommand implements CommandExecutor {
 
     private Object message;
